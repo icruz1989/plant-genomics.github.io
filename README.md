@@ -1,5 +1,5 @@
 
-## Research Lab Website Design Template
+## Plant evolutionary ecology and genomics
 
 This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research. 
 
